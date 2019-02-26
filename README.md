@@ -9,12 +9,12 @@ usage: extension_changer.py [-h] [-p PATH] [-o OLD] [-n NEW] [-r]
 
 This script converts file extensions
 
-optional arguments:
-  -h, --help  show this help message and exit
-  -p PATH     path to dir
-  -o OLD      old extension
-  -n NEW      new extension
-  -r          is recursive
+optional arguments:<br/>
+  -h, --help  show this help message and exit<br/>
+  -p PATH     path to dir<br/>
+  -o OLD      old extension<br/>
+  -n NEW      new extension<br/>
+  -r          is recursive<br/>
 
 `$ python extension_changer.py -p /home/syseng/bin/data/examples/ -o txt -n csv`
 
