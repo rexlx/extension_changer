@@ -17,7 +17,7 @@ optional arguments:<br/>
   -u          undo, revert changes<br/>
   -r          is recursive<br/>
 
-`$ python extension_changer.py -p /home/syseng/bin/data/examples/ -o txt -n csv`
+`$ python extension_changer.py -p /home/rxlx/bin/data/examples/ -o txt -n csv`
 
 
 after completetion, it will create a file  './ext_change.log' that shows each file modification made.
