@@ -14,6 +14,7 @@ optional arguments:<br/>
   -p PATH     path to dir<br/>
   -o OLD      old extension<br/>
   -n NEW      new extension<br/>
+  -u          undo, revert changes<br/>
   -r          is recursive<br/>
 
 `$ python extension_changer.py -p /home/syseng/bin/data/examples/ -o txt -n csv`
