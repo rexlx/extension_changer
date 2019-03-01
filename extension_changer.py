@@ -24,7 +24,7 @@ optional arguments:
   -u          undo, revert changes
   -r          is recursive
 
-python extension_changer.py -p /home/syseng/bin/data/examples/ -o exp -n txt
+python extension_changer.py -p /home/rxlx/bin/data/examples/ -o exp -n txt
 """
 
 # you can hard code values here if you dont want a bunch of args
